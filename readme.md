@@ -1,5 +1,7 @@
 # Cakes Co
 
+https://cyf-farzaneh-haghani-cakes.netlify.app
+
 The aim of this exercise is to create a **responsive webpage** showcasing your cake business.
 
 Two wireframes are provided down below (scroll to the bottom).

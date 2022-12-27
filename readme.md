@@ -1,6 +1,7 @@
-# Cakes Co
 
-https://cyf-farzaneh-haghani-cakes.netlify.app
+# live: https://cyf-farzaneh-haghani-cakes.netlify.app
+
+# Cakes Co
 
 - The aim of this exercise is to create a **responsive webpage** showcasing your cake business.
 
